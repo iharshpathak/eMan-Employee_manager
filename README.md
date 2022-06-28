@@ -4,8 +4,8 @@
 [![E Man Logo](https://raw.githubusercontent.com/iharshpathak/eMan-Employee_manager/main/empManFrontend/empManfront/src/assets/EmanLogo.png)](https://github.com/iharshpathak/eMan-Employee_manager)
 
 
-E Man is a Spring-Boot based,
-AngularJS-powered employee manager CRUD application.
+E Man is a and efficient Full-Stack CRUD based 
+one stop application for managing the details of any organization's employees.
 
 - The Backend is powered by Spring Boot,JPA, MySQL.
 - The Fontend is build using Angular(v14)
@@ -22,7 +22,7 @@ AngularJS-powered employee manager CRUD application.
 
 E Man uses a number of open source technologies to work properly:
 
-- [Angular](https://angular.io/) - HTML enhanced for web apps!
+- [Angular](https://angular.io/) - enhanced frontend!
 - [Spring Boot](https://spring.io/projects/spring-boot) - awesome backend framework.
 - [Java](https://openjdk.org/) - OpenJDK v17 was used to build this app.
 - [TypeScript](https://www.typescriptlang.org/) - frontend angular coding.
