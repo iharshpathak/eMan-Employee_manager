@@ -4,10 +4,12 @@
 [![E Man Logo](https://raw.githubusercontent.com/iharshpathak/eMan-Employee_manager/main/empManFrontend/empManfront/src/assets/EmanLogo.png)](https://github.com/iharshpathak/eMan-Employee_manager)
 
 
-E Man is a and efficient Full-Stack CRUD based 
-one stop application for managing the details of any organization's employees.
+E  Man is a and efficient 
+Full-Stack CRUD based 
+one stop application 
+for managing the details of any organization's employees.
 
-- The Backend is powered by Spring Boot,JPA, MySQL.
+- The Backend is powered by Java (OpenJDK v17),Spring Boot,JPA, MySQL.
 - The Fontend is build using Angular(v14)
 
 ## Features
